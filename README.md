@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/chill-night-glitch-pixel-art-jyasefmidungcb3c.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋,Lê Trọng Thiện </h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align = "right" width="400" src="https://cdna.artstation.com/p/assets/images/images/058/261/040/original/pixel-benny-bluebirdhay-backgrounds-x.gif?1673765455" alt="Chill">
+<img align = "right" width="400" src="https://mastermedia.vn/wp-content/uploads/2022/03/id5-6-min.png" alt="Chill">
 
 
 <h3 align="left">Connect with me:</h3>
