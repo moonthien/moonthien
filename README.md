@@ -1,4 +1,7 @@
-[![MasterHead](https://gifdb.com/images/high/chill-night-glitch-pixel-art-jyasefmidungcb3c.gif)](https://rishavchanda.io)
+![5927911 (1)](https://github.com/moonthien/moonthien/assets/121614708/9c96292c-824b-4ad6-84c8-bea69f5fed20)
+
+
+
 <h1 align="center">Hi 👋,Lê Trọng Thiện </h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 <img align = "right" width="400" src="https://mastermedia.vn/wp-content/uploads/2022/03/id5-6-min.png" alt="Chill">
